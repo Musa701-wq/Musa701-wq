@@ -13,7 +13,7 @@
 - 🎓 **BS Software Engineering — University of Gujrat (2021–2025)**
 - 🤝 Open to collaborating on **Flutter, AI-powered apps, and innovative mobile products**.
 
-📫 Reach me at: **your_email@gmail.com**
+📫 Reach me at: **musafali0049@gmail.com**
 
 ---
 
