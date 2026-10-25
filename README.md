@@ -1,55 +1,266 @@
+```html
 <h1 align="center">👋 Hi, I'm Musaf Ali</h1>
-<h3 align="center">🚀 Associate Flutter Developer | Mobile & Web</h3>
 
----
-
-## 🧑‍💻 About Me
-
-- 📱 I build **cross-platform mobile applications** using Flutter for Android & iOS.
-- 🔥 Experienced in **Firebase services, REST API integration, and scalable app architecture**.
-- 🤖 I work with **AI-powered features** like image recognition, AI-generated content, and ML integrations.
-- 💳 Experienced in **App Monetization** (In-App Purchases, AdMob, Stripe Payments).
-- 🗺️ Integrated **Google Maps & real-time location services** in production apps.
-- 🎓 **BS Software Engineering — University of Gujrat (2021–2025)**
-- 🤝 Open to collaborating on **Flutter, AI-powered apps, and innovative mobile products**.
-
-📫 Reach me at: **musafali0049@gmail.com**
-
----
-
-# 🛠 Tech Stack & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,python,tensorflow,mongodb" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🏠 Renovate AI
-AI-powered home decor application with intelligent image generation and transformations.
-
-### 🌿 PlantEyes
-AI plant identifier with disease detection and automated care tracking.
-
-### ⚡ Golumo
-EV charging station finder with **Google Maps**, **Stripe payments**, and real-time location tracking.
-
-### 📚 IntelliDocs AI
-AI-powered PDF reader that generates summaries, quizzes, and study notes.
-
-### 🩺 PneumoScan
-AI-based pneumonia detection system using chest X-ray image analysis.
-
----
-
-# 📊 GitHub Stats
+<h3 align="center">
+  Flutter Developer | AI & Machine Learning Enthusiast | Node.js Developer
+</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
+  Building mobile applications, exploring artificial intelligence,
+  and developing backend solutions.
 </p>
+
+<p align="center">
+  <a href="https://github.com/Musa701-wq">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/musaf-ali-902a6821b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:amusaf625@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 📱 Flutter developer building cross-platform applications
+  for Android and iOS.
+- 🤖 Exploring Artificial Intelligence, Machine Learning,
+  and data-driven applications.
+- 🐍 Learning Python for data analysis, numerical computing,
+  and machine learning.
+- 📊 Practicing NumPy, Pandas, Matplotlib, and Seaborn
+  for data manipulation and visualization.
+- 🧠 Building my understanding of linear algebra, statistics,
+  and machine learning fundamentals.
+- ⚙️ Expanding my backend development skills with Node.js,
+  REST APIs, and server-side development.
+- 🔥 Experienced with Firebase, authentication, analytics,
+  and third-party API integrations.
+- 💳 Worked with app monetization, In-App Purchases,
+  Google AdMob, and payment integrations.
+- 🗺️ Built applications using Google Maps and location services.
+- 🎓 BS Software Engineering — University of Gujrat
+  (2021–2025).
+
+I'm interested in building intelligent applications that
+combine mobile development, backend technologies, and AI.
+
+📫 **Email:** [amusaf625@gmail.com](mailto:amusaf625@gmail.com)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
+</p>
+
+- Flutter and Dart
+- GetX State Management
+- MVC Architecture
+- REST API Integration
+- Firebase Authentication and Analytics
+- Google Maps and Location Services
+- In-App Purchases and AdMob
+- Stripe Payment Integration
+
+### 🤖 AI, Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Linear Algebra and Statistics
+- Machine Learning Fundamentals
+- Scikit-learn and Regression Models
+  (learning and practice)
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+- Node.js
+- Express.js
+- RESTful API Development
+- Server-side Programming
+- MongoDB Fundamentals
+- API Integration and JSON
+
+### 🧰 Programming Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,js,cpp,java,git,github,vscode,postman" />
+</p>
+
+- Python, Dart, JavaScript, C++, and Java
+- Git and GitHub
+- VS Code
+- Android Studio
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Renovate AI — Smart Home Decor
+
+AI-powered home decor application that helps users transform
+interior and exterior spaces using AI-generated image edits.
+
+**Tech:** Flutter, Gemini API, Firebase, In-App Purchases, AdMob
+
+- AI-powered image transformation and editing features.
+- Google and Apple authentication.
+- Analytics and application monetization.
+
+[View on App Store](https://apps.apple.com/pk/app/renovate-ai-smart-home-decor/id6756610861)
+
+### 🌿 PlantEyes — AI Plant Identification
+
+Mobile application focused on plant identification and
+AI-assisted plant health analysis.
+
+**Tech:** Flutter, AI/API Integration
+
+[View on App Store](https://apps.apple.com/pk/app/plant-eyes/id6754831279)
+
+### ⚡ Golumo — EV Charging & Booking
+
+Electric vehicle charging application for finding charging
+stations and managing charging bookings.
+
+**Tech:** Flutter, Google Maps, REST APIs, Firebase, Stripe
+
+- Charging station discovery and location services.
+- Booking workflows and payment integration.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.go.lumo1)
+
+### 📚 Code Course — Learn to Code
+
+Educational mobile application offering programming courses
+for users learning technologies such as Python, Java,
+JavaScript, HTML, and CSS.
+
+**Tech:** Flutter, Firebase, Analytics, In-App Purchases
+
+[View on App Store](https://apps.apple.com/pk/app/code-course-learn-to-code/id6755722567)
+
+### 📄 IntelliDocs AI
+
+AI-powered document learning concept focused on generating
+summaries, quizzes, and study notes from PDF documents.
+
+**Tech:** AI Integration, Document Processing
+
+### 🩺 PneumoScan — Final Year Project
+
+AI-based healthcare application designed around pneumonia
+detection from chest X-ray images through machine learning
+model/API integration.
+
+**Tech:** Flutter, AI/ML Integration, REST APIs
+
+### 📈 Employee Data Analysis
+
+A data analysis practice project using an employee dataset.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+- Data cleaning and missing-value handling.
+- Department-wise salary analysis and bonus calculations.
+- Statistical summaries and data visualizations.
+
+### 🏏 Cricket Player Statistics
+
+A small data analysis project comparing the statistics
+of five cricket players.
+
+**Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn
+
+- Runs, batting averages, strike rates, and fifties.
+- Summary generation and comparison charts.
+- CSV export for analysis results.
+
+### 🎬 Movie Recommendation Prototype
+
+A basic recommendation prototype using vector mathematics
+to compare movie feature representations.
+
+**Tech:** Python, NumPy, Linear Algebra
+
+- Vector magnitude and distance calculations.
+- Cosine similarity for comparing feature vectors.
+- Recommendation summaries and visualizations.
+
+---
+
+## 📚 AI & Data Science Learning Journey
+
+Currently building practical foundations in:
+
+- NumPy arrays, numerical operations, and linear algebra.
+- Pandas Series, DataFrames, filtering, grouping, and cleaning.
+- Matplotlib and Seaborn for data visualization.
+- Statistics and exploratory data analysis.
+- Machine learning fundamentals and regression models.
+- Python-based data analysis workflows.
+
+Explore my practice notebooks and projects:
+
+👉 [AI & Data Science Projects Repository](https://github.com/Musa701-wq/ai_projects_)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Musa701-wq&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Musa701-wq&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa701-wq&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on mobile applications,
+AI-powered products, data science projects, and backend
+development.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/musaf-ali-902a6821b)
+- 🐙 [GitHub](https://github.com/Musa701-wq)
+- 📧 [Email Me](mailto:amusaf625@gmail.com)
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
+```
