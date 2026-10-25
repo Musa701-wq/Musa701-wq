@@ -2,12 +2,12 @@
 <h1 align="center">👋 Hi, I'm Musaf Ali</h1>
 
 <h3 align="center">
-  Flutter Developer | AI & Machine Learning Enthusiast | Node.js Developer
+  Flutter Developer | AI & Machine Learning Enthusiast | Python FastAPI Developer
 </h3>
 
 <p align="center">
-  Building mobile applications, exploring artificial intelligence,
-  and developing backend solutions.
+  Building cross-platform mobile applications, exploring AI/ML,
+  and developing Python backend APIs.
 </p>
 
 <p align="center">
@@ -30,24 +30,27 @@
   for Android and iOS.
 - 🤖 Exploring Artificial Intelligence, Machine Learning,
   and data-driven applications.
-- 🐍 Learning Python for data analysis, numerical computing,
+- 🐍 Learning Python for numerical computing, data analysis,
   and machine learning.
 - 📊 Practicing NumPy, Pandas, Matplotlib, and Seaborn
-  for data manipulation and visualization.
-- 🧠 Building my understanding of linear algebra, statistics,
-  and machine learning fundamentals.
-- ⚙️ Expanding my backend development skills with Node.js,
-  REST APIs, and server-side development.
+  for data analysis and visualization.
+- 🧠 Developing my understanding of linear algebra,
+  statistics, and machine learning fundamentals.
+- ⚡ Exploring Python FastAPI for backend development
+  and building RESTful APIs.
+- 🔗 Interested in serving AI/ML models through APIs
+  and integrating them with mobile applications.
 - 🔥 Experienced with Firebase, authentication, analytics,
   and third-party API integrations.
-- 💳 Worked with app monetization, In-App Purchases,
-  Google AdMob, and payment integrations.
-- 🗺️ Built applications using Google Maps and location services.
+- 💳 Worked with In-App Purchases, Google AdMob,
+  and payment integrations.
+- 🗺️ Built mobile applications using Google Maps
+  and location services.
 - 🎓 BS Software Engineering — University of Gujrat
   (2021–2025).
 
-I'm interested in building intelligent applications that
-combine mobile development, backend technologies, and AI.
+I'm interested in building intelligent applications that combine
+mobile development, backend technologies, and artificial intelligence.
 
 📫 **Email:** [amusaf625@gmail.com](mailto:amusaf625@gmail.com)
 
@@ -90,26 +93,28 @@ combine mobile development, backend technologies, and AI.
 - Scikit-learn and Regression Models
   (learning and practice)
 
-### ⚙️ Backend Development
+### ⚡ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-- Node.js
-- Express.js
+- Python FastAPI
 - RESTful API Development
-- Server-side Programming
-- MongoDB Fundamentals
-- API Integration and JSON
+- API Routing and Request/Response Handling
+- JSON Data Processing
+- Request Validation with Pydantic
+- Backend Integration with Flutter Applications
+- AI/ML Model API Integration
+- API Testing with Postman
 
 ### 🧰 Programming Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,dart,js,cpp,java,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,dart,cpp,java,git,github,vscode,postman" />
 </p>
 
-- Python, Dart, JavaScript, C++, and Java
+- Python, Dart, C++, and Java
 - Git and GitHub
 - VS Code
 - Android Studio
@@ -156,8 +161,7 @@ stations and managing charging bookings.
 ### 📚 Code Course — Learn to Code
 
 Educational mobile application offering programming courses
-for users learning technologies such as Python, Java,
-JavaScript, HTML, and CSS.
+for users learning Python, Java, JavaScript, HTML, and CSS.
 
 **Tech:** Flutter, Firebase, Analytics, In-App Purchases
 
@@ -187,17 +191,18 @@ A data analysis practice project using an employee dataset.
 - Data cleaning and missing-value handling.
 - Department-wise salary analysis and bonus calculations.
 - Statistical summaries and data visualizations.
+- Exported cleaned data and analysis summaries to CSV.
 
 ### 🏏 Cricket Player Statistics
 
-A small data analysis project comparing the statistics
+A data analysis project comparing the statistics
 of five cricket players.
 
 **Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn
 
-- Runs, batting averages, strike rates, and fifties.
-- Summary generation and comparison charts.
-- CSV export for analysis results.
+- Analyzed runs, batting averages, strike rates, and fifties.
+- Generated player summaries and comparison charts.
+- Exported analysis results to CSV.
 
 ### 🎬 Movie Recommendation Prototype
 
@@ -208,7 +213,7 @@ to compare movie feature representations.
 
 - Vector magnitude and distance calculations.
 - Cosine similarity for comparing feature vectors.
-- Recommendation summaries and visualizations.
+- Generated recommendation summaries and visualizations.
 
 ---
 
@@ -216,7 +221,8 @@ to compare movie feature representations.
 
 Currently building practical foundations in:
 
-- NumPy arrays, numerical operations, and linear algebra.
+- NumPy arrays and numerical operations.
+- Linear algebra, vectors, and matrices.
 - Pandas Series, DataFrames, filtering, grouping, and cleaning.
 - Matplotlib and Seaborn for data visualization.
 - Statistics and exploratory data analysis.
@@ -226,6 +232,19 @@ Currently building practical foundations in:
 Explore my practice notebooks and projects:
 
 👉 [AI & Data Science Projects Repository](https://github.com/Musa701-wq/ai_projects_)
+
+---
+
+## ⚡ Python Backend Learning Journey
+
+Exploring backend development with Python FastAPI, including:
+
+- Building RESTful APIs.
+- Handling HTTP requests and responses.
+- Request validation and JSON serialization.
+- Integrating backend APIs with Flutter applications.
+- Learning how to expose AI/ML models through APIs.
+- Testing API endpoints with Postman.
 
 ---
 
@@ -253,8 +272,8 @@ Explore my practice notebooks and projects:
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on mobile applications,
-AI-powered products, data science projects, and backend
-development.
+AI-powered products, machine learning projects, and
+Python backend development.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/musaf-ali-902a6821b)
 - 🐙 [GitHub](https://github.com/Musa701-wq)
@@ -263,4 +282,3 @@ development.
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
 </p>
-
