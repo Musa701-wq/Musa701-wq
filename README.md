@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">👋 Hi, I'm Musaf Ali</h1>
 
 <h3 align="center">
@@ -263,4 +263,4 @@ development.
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
 </p>
-```
+
